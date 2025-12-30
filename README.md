@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Bao Gia Khuu</h1>
+<h1 align="center">👋 Hi, I'm Bao Khuu Gia</h1>
 <h3 align="center">💻 Python & C++ Developer | AI & ML Learner | Embedded Hobbyist</h3>
 
 <p align="center">
