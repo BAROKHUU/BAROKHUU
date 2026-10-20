@@ -1,46 +1,51 @@
-<h1 align="center">👋 Hi, I'm Bao Khuu Gia</h1>
-<h3 align="center">💻 Python & C++ Developer | AI & ML Learner | Embedded Hobbyist</h3>
+<!-- HEADER -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:22D3EE&height=200&section=header&text=Bao%20Khuu%20Gia&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Learning.%20Building.%20Improving.&descAlignY=60&descSize=17" alt="Bao Khuu Gia — Learning. Building. Improving." />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=1200&color=22B8CF&center=true&vCenter=true&width=600&height=50&lines=Hello!+I'm+Bao.;I+build+with+Python%2C+C%2B%2B+and+JavaScript.;Exploring+AI+Agents+and+web+applications." alt="Building with Python, C++ and JavaScript. Exploring AI Agents and web applications." />
+</p>
 
-## 🚀 About Me  
-- 🔧 I mainly work with **Python** and **C++**, with some experience in **JavaScript**.  
-- 🤖 Interested in **AI, Machine Learning, and Deep Learning**, especially with **OpenCV** and **PyTorch** (still learning at beginner/intermediate level).  
-- 🔌 I enjoy building small embedded systems — experienced with **Arduino** and **mini embedded projects**.  
-- 🎯 Passionate about problem-solving, and exploring new technologies.
+## 👨‍💻 About me
 
----
+- 🎓 Computer Science student at **Ho Chi Minh City University of Technology (VNU - HCMUT)**.
+- 🤖 Exploring **AI Agents**, tool use, and how language models can support practical workflows.
+- 💻 Building projects with **Python, C++ and JavaScript**, from machine learning experiments to web applications.
 
-## 🛠 Tech Stack  
+## ⚡ Tech stack
 
-### **Languages**
+**Languages & Web**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nextjs,tailwind,nodejs&theme=dark" alt="Python, C++, JavaScript, React, Next.js, Tailwind CSS, Node.js" />
 </p>
 
-### **Tools & Platforms**
+**ML & Development Tools**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=pytorch,git,docker,linux&theme=dark" alt="PyTorch, Git, Docker, Linux" />
 </p>
 
-### **AI / ML Frameworks**
+## 🚀 Featured projects
+
+### 🗺️ [MapMate](https://github.com/MapMate-HCMUT)
+A collaborative project for discovering places and planning travel itineraries, with a focus on Ho Chi Minh City.
+
+## 🤝 Contact
+
+Interested in AI agents, web development, or working on a project together? Let's connect.
+
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+  <a href="mailto:giabaokhuu1708@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
+  </a>
+  <a href="https://www.linkedin.com/in/khuugiabao/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
 </p>
 
-### **Embedded / Hardware**
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:22D3EE&height=90&section=footer" alt="" />
 </p>
-
----
-
-<p align="center">⭐ If you enjoy my work, feel free to star my repositories!</p>
